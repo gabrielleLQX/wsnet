@@ -1,0 +1,3 @@
+SUBDIRS = flat grid dbtree
+
+

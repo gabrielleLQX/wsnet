@@ -1,0 +1,2 @@
+SUBDIRS = heap list
+
